@@ -1,5 +1,5 @@
 # AEE-Mi-primera-App
-Desarrollador: Juan Calixto
+Desarrollador: Juan Calixto.
 Descripción: Aplicación Android con 5 Activities utilizando Kotlin y View Binding (inflate).
 
 ## Funcionalidades
